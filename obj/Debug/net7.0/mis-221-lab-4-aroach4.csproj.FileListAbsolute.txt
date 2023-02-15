@@ -1,0 +1,15 @@
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/bin/Debug/net7.0/mis-221-lab-4-aroach4
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/bin/Debug/net7.0/mis-221-lab-4-aroach4.deps.json
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/bin/Debug/net7.0/mis-221-lab-4-aroach4.runtimeconfig.json
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/bin/Debug/net7.0/mis-221-lab-4-aroach4.dll
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/bin/Debug/net7.0/mis-221-lab-4-aroach4.pdb
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.csproj.AssemblyReference.cache
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.AssemblyInfoInputs.cache
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.AssemblyInfo.cs
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.csproj.CoreCompileInputs.cache
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.dll
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/refint/mis-221-lab-4-aroach4.dll
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.pdb
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/mis-221-lab-4-aroach4.genruntimeconfig.cache
+/Users/aidanroach/Desktop/Source/mis-221-lab-4-aroach4/obj/Debug/net7.0/ref/mis-221-lab-4-aroach4.dll
